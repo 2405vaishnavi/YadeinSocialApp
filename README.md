@@ -17,4 +17,25 @@ Express
 Landing Page
 ![mem1](https://github.com/2405vaishnavi/YadeinSocialApp/assets/113427723/f7c169fc-dc64-4813-a9aa-c2ace00b6b82)
 
+![mem4](https://github.com/2405vaishnavi/YadeinSocialApp/assets/113427723/bc47ee91-135e-449a-a7c7-0181f79bec40)
+
+![mem2](https://github.com/2405vaishnavi/YadeinSocialApp/assets/113427723/074b06ef-1d95-4e8b-8cd6-41aada9b5b23)
+
+![mem3](https://github.com/2405vaishnavi/YadeinSocialApp/assets/113427723/6e144725-2011-409f-af35-b02c0b624c28)
+
+SignUp/ SignIn 
+
+![mem6](https://github.com/2405vaishnavi/YadeinSocialApp/assets/113427723/43df7e90-9216-46ec-9529-ab8c37c002a6)
+
+Home Page 
+![mem7](https://github.com/2405vaishnavi/YadeinSocialApp/assets/113427723/b61de950-2d2e-493a-aa61-8cda146b377b)
+
+Details 
+![mem8](https://github.com/2405vaishnavi/YadeinSocialApp/assets/113427723/74cbac47-d975-4d69-a0fc-c58434b72865)
+
+
+
+
+
+
 
