@@ -30,6 +30,12 @@ SignUp/ SignIn
 Home Page 
 ![mem7](https://github.com/2405vaishnavi/YadeinSocialApp/assets/113427723/b61de950-2d2e-493a-aa61-8cda146b377b)
 
+
+Post Details
+
+![image](https://github.com/2405vaishnavi/YadeinSocialApp/assets/113427723/bd073808-e102-4e3d-b4ae-b05b1f2be87e)
+
+
 Details 
 ![mem8](https://github.com/2405vaishnavi/YadeinSocialApp/assets/113427723/74cbac47-d975-4d69-a0fc-c58434b72865)
 
