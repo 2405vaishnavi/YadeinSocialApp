@@ -1,0 +1,13 @@
+.mid {
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  display: flex;
+  position: relative;
+}
+
+.full-width-image {
+  width: 100%; 
+  height: auto; 
+  display: block; 
+}
