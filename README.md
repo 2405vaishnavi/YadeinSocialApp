@@ -37,7 +37,7 @@ Post Details
 
 
 Details 
-![mem8](https://github.com/2405vaishnavi/YadeinSocialApp/assets/113427723/74cbac47-d975-4d69-a0fc-c58434b72865)
+![image](https://github.com/2405vaishnavi/YadeinSocialApp/assets/113427723/2b0e7f70-9b93-4a43-8fe4-9a08afbb241c)
 
 
 
